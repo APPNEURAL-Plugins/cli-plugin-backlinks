@@ -1,5 +1,5 @@
 {
-  "name": "@appneural/plugin-backlinks",
+  "name": "@appneural/cli-plugin-backlinks",
   "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   "keywords": [
     "appneural",
     "plugin",
-    "plugin-backlinks"
+    "cli-plugin-backlinks"
   ],
   "author": "APPNEURAL",
   "license": "MIT",

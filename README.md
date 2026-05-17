@@ -1,4 +1,4 @@
-# @appneural/plugin-backlinks
+# @appneural/cli-plugin-backlinks
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This plugin provides backlink analysis and management tools for the Appneural pl
 ## Installation
 
 ```bash
-npm add @appneural/plugin-backlinks
+npm add @appneural/cli-plugin-backlinks
 ```
 
 ## Available Commands (using anx tools)
