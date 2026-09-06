@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This plugin provides backlink analysis and management tools for the Appneural platform. It enables users to discover, analyze, and manage backlinks for SEO and content strategy using intelligent commands.
+This plugin provides backlink analysis and management tools for the APPNEURAL platform. It enables users to discover, analyze, and manage backlinks for SEO and content strategy using intelligent commands.
 
 ## Benefits
 
